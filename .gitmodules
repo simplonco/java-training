@@ -1,0 +1,12 @@
+[submodule "exercises/maWebapp"]
+	path = exercises/maWebapp
+	url = https://github.com/simplonco/maWebapp
+[submodule "exercises/FizzBuzz"]
+	path = exercises/FizzBuzz
+	url = https://github.com/simplonco/FizzBuzz
+[submodule "exercises/BaseRH"]
+	path = exercises/BaseRH
+	url = https://github.com/simplonco/BaseRH
+[submodule "exercises/HelloLaPromo"]
+	path = exercises/HelloLaPromo
+	url = https://github.com/simplonco/HelloLaPromo
