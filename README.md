@@ -25,5 +25,7 @@
 ## La Poste
 
  * [Cooking data with Java!](https://github.com/simplonco/java-cooking-data)
+ 
+ * [Java Send Mail Form](https://github.com/simplonco/java-send-mail-form/)
 
 _To be continued.._
