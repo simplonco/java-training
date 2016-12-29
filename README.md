@@ -24,13 +24,16 @@
 
 ## La Poste
 
- * [Cooking data with Java!](https://github.com/simplonco/java-cooking-data)
+* [Pokemon! _UML special edition_](https://github.com/simplonco/catch-them-all)
+
+* [Cooking data with Java!](https://github.com/simplonco/java-cooking-data)
  
- * [Java Send Mail Form](https://github.com/simplonco/java-send-mail-form/)
+* [Java Send Mail Form](https://github.com/simplonco/java-send-mail-form/)
  
-https://docs.google.com/presentation/d/1z4O6Em_pGx5IIg3J2nXzu1NRf8qPTvTQZyorwuj6LNc/edit#slide=id.p
- 
-https://learnxinyminutes.com/docs/java/
+* [J2EE project](https://github.com/simplonco/J2EE-project)
+
+
+## Resources
 
 **Official Oracle Guides**:
 
