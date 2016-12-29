@@ -1,6 +1,8 @@
 # Java
 >_[Training](https://github.com/simplonco/training) / Java_
 
+## Pole Emploi
+
 * [HelloLaPromo](https://github.com/simplonco/HelloLaPromo)
   _Découverte Java et Git_
 
@@ -19,5 +21,9 @@
 
 * [Geométrie](https://github.com/simplonco/geometrie)
   _Mise en oeuvre de la POO avec matérialisation des notions de classes abstraites et d'interfaces._
+
+## La Poste
+
+ * [Cooking data with Java!](https://github.com/simplonco/java-cooking-data)
 
 _To be continued.._
