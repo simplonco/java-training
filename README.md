@@ -1,6 +1,8 @@
 # Java
 >_[Training](https://github.com/simplonco/training) / Java_
 
+![Java logo](https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/131px-Java_Logo.svg.png)
+
 ## Pole Emploi
 
 * [HelloLaPromo](https://github.com/simplonco/HelloLaPromo)
