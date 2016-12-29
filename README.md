@@ -28,8 +28,12 @@
 
 * [Pokemon! _UML special edition_](https://github.com/simplonco/catch-them-all)
 
+* C to F
+
 * [Cooking data with Java!](https://github.com/simplonco/java-cooking-data)
- 
+
+* [Challenges](https://github.com/simplonco/java-challenges)
+
 * [Java Send Mail Form](https://github.com/simplonco/java-send-mail-form/)
  
 * [J2EE project](https://github.com/simplonco/J2EE-project)
