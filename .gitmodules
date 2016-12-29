@@ -10,3 +10,6 @@
 [submodule "exercises/HelloLaPromo"]
 	path = exercises/HelloLaPromo
 	url = https://github.com/simplonco/HelloLaPromo
+[submodule "challenges/java-challenges"]
+	path = challenges/java-challenges
+	url = https://github.com/simplonco/java-challenges
