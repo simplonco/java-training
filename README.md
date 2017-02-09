@@ -30,6 +30,8 @@
 
 * C to F
 
+* [Chronopost](https://github.com/NicolasHov/Java-Challenges-Chronopost)
+
 * [Cooking data with Java!](https://github.com/simplonco/java-cooking-data)
 
 * [Challenges](https://github.com/simplonco/java-challenges)
