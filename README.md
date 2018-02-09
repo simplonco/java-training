@@ -24,13 +24,16 @@
 * [Geométrie](https://github.com/simplonco/geometrie)
   _Mise en oeuvre de la POO avec matérialisation des notions de classes abstraites et d'interfaces._
 
-## La Poste
+## La Poste - promo 1
 
 * [Pokemon! _UML special edition_](https://github.com/simplonco/catch-them-all)
 
 * [Chronopost](https://github.com/NicolasHov/Java-Challenges-Chronopost)
 
 * [Challenges](https://github.com/simplonco/java-challenges)
+
+## La Poste - promo 2
+* [training](https://github.com/simplonco/java-training-LPS2)
 
 ## Resources
 
