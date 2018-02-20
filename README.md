@@ -35,6 +35,9 @@
 ## La Poste - promo 2
 * [training](https://github.com/simplonco/java-training-LPS2)
 
+## P20 - POE
+* [training](https://github.com/simplonco/java-training-p20POEJava)
+
 ## Resources
 
 **Official Oracle Guides**:
