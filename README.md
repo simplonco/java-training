@@ -3,35 +3,6 @@
 
 ![Java logo](https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/131px-Java_Logo.svg.png)
 
-## Pole Emploi
-
-* [HelloLaPromo](https://github.com/simplonco/HelloLaPromo)
-  _Découverte Java et Git_
-
-* [BaseRH](https://github.com/simplonco/BaseRH)
-  _Outil permettant d'exécuter une requête sur un base Oracle (modèle EMP / DEPT) et d'afficher pour chaque résultat le contenu d'une colonne._
-
-* [maWebapp](https://github.com/simplonco/maWebapp)
-  _Application Web Java simple construite avec le micro-framework Jodd._
-
-* [demoPOO](https://github.com/simplonco/demoPOO)
-
-* [TpFinPrairie](https://github.com/simplonco/TpFinPrairie)
-
-* [FizzBuzz](https://github.com/simplonco/FizzBuzz)
-  _1, 2, Fizz, 3, Buzz, Fizz, 7, 8, Fizz, Buzz_
-
-* [Geométrie](https://github.com/simplonco/geometrie)
-  _Mise en oeuvre de la POO avec matérialisation des notions de classes abstraites et d'interfaces._
-
-## La Poste - promo 1
-
-* [Pokemon! _UML special edition_](https://github.com/simplonco/catch-them-all)
-
-* [Chronopost](https://github.com/NicolasHov/Java-Challenges-Chronopost)
-
-* [Challenges](https://github.com/simplonco/java-challenges)
-
 ## La Poste - promo 2
 * [training](https://github.com/simplonco/java-training-LPS2)
 
